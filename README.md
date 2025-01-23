@@ -33,7 +33,7 @@ Through metrics such as **KL divergence** to evaluate convergence precision and 
 ---
 
 ## Results and Figures / 结果与图示
-### Figure 1: Sample Size Effects on Convergence 精度
+### Figure 1: Sample Size Effects on Convergence
 ![](figures/Uniform.png)  
 Illustrates how larger sample sizes improve the convergence of sample means to the normal distribution.  
 样本量的增加使样本均值分布更接近正态分布。
